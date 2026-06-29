@@ -1,2 +1,11 @@
-# Cisco-sdwan-Viptela
-Cisco Catalyst SD-WAN (Viptela) architecture, controllers, policy design, deployment, troubleshooting, and enterprise WAN best practices.
+## Automation Scripts
+
+- SD-WAN Device Health Check
+
+### Script Features
+
+- Login to Cisco vManage
+- Retrieve WAN Edge inventory
+- Export device health report
+- Verify controller connectivity
+- Generate CSV report
