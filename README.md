@@ -15,3 +15,15 @@
 - Cisco SD-WAN Architecture
 - SD-WAN Policy and Troubleshooting Guide
 - SD-WAN High Availability Design
+
+## Operational Lifecycle
+
+- Device Onboarding
+- Certificate Management
+- Template Management
+- Policy Deployment
+- Software Upgrades
+- Monitoring and Alerting
+- Troubleshooting
+- Change Management
+- Operational Best Practices
