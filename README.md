@@ -27,3 +27,12 @@
 - Troubleshooting
 - Change Management
 - Operational Best Practices
+
+- ## Operational Troubleshooting
+
+- Control Connection Troubleshooting
+- Controller Reachability Validation
+- Certificate and NTP Verification
+- WAN Transport Validation
+- BFD Session Troubleshooting
+- Overlay Routing Verification
